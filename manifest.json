@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "namesilo",
+  "binary": "namesilo-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via NameSilo.",
+  "display_name_key": "plugin.namesilo-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "namesilo-dns",
+  "provider_aliases": [
+    "namesilo"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

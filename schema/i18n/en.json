@@ -1,0 +1,7 @@
+{
+  "plugin.namesilo-dns.name": "NameSilo",
+  "plugin.namesilo-dns.description": "ACME DNS-01 via NameSilo.",
+  "plugin.namesilo-dns.access.apiKey.label": "NameSilo API key",
+  "plugin.namesilo-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://www.namesilo.com/support/v2/articles/account-options/api-manager\" target=\"_blank\">https://www.namesilo.com/support/v2/articles/account-options/api-manager</a>",
+  "plugin.namesilo-dns.access.apiKey.placeholder": "Please enter NameSilo API key"
+}

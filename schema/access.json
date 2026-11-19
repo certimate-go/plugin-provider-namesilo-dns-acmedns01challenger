@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "namesilo",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiKey",
+        "valueType": "secret",
+        "labelKey": "plugin.namesilo-dns.access.apiKey.label",
+        "tooltipKey": "plugin.namesilo-dns.access.apiKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.namesilo-dns.access.apiKey.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
